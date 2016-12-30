@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/k-mean.unity
+  isLoaded: 1
+  isActive: 1
